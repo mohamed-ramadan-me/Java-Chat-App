@@ -1,6 +1,10 @@
 # Java Chat Application
 
-A feature-rich, real-time chat application built with Java Swing and socket programming. This WhatsApp-inspired client-server application supports text messaging, media sharing, voice notes, and both individual and group voice calls.
+---
+
+A real-time chat application built with Java Swing and socket programming, featuring text messaging, media sharing, voice notes, and group voice calls with a WhatsApp-inspired interface.
+
+![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=java) ![Socket Programming](https://img.shields.io/badge/Socket-Programming-blue) ![Java Swing](https://img.shields.io/badge/Java%20Swing-GUI-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Features
 
@@ -43,7 +47,7 @@ A feature-rich, real-time chat application built with Java Swing and socket prog
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/mohamed-ramadan-me/Java-Chat-app-Project
+   git clone https://github.com/mohamed-ramadan-me/Java-Chat-app-Project.git
    cd "Java Chat app Project"
    ```
 

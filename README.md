@@ -43,7 +43,7 @@ A feature-rich, real-time chat application built with Java Swing and socket prog
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mohamed-ramadan-me/Java-Chat-app-Project
    cd "Java Chat app Project"
    ```
 

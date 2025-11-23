@@ -48,7 +48,7 @@ A real-time chat application built with Java Swing and socket programming, featu
 
    ```bash
    git clone https://github.com/mohamed-ramadan-me/Java-Chat-App.git
-   cd "Java Chat App"
+   cd "Java-Chat-App"
    ```
 
 2. **Compile the server**:

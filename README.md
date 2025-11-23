@@ -48,7 +48,7 @@ A real-time chat application built with Java Swing and socket programming, featu
 
    ```bash
    git clone https://github.com/mohamed-ramadan-me/Java-Chat-App.git
-   cd "Java Chat app Project"
+   cd "Java Chat App"
    ```
 
 2. **Compile the server**:
@@ -162,7 +162,7 @@ private static final int SERVER_PORT = 8889; // Client.java
 ## Project Structure
 
 ```
-Java Chat app Project/
+Java Chat App/
 ├── Client/
 │   ├── .idea/                    # IntelliJ IDEA project files
 │   ├── src/
